@@ -72,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistiques
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachad-ac&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachad-ac&layout=compact&theme=radical)
 
