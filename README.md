@@ -7,6 +7,11 @@
 
 ---
 
+## 📝 À propos
+Étudiant en fin de licence en Génie Logiciel, passionné par le développement web et la création de solutions logicielles. Rigoureux et motivé, je cherche à intégrer une équipe dynamique pour contribuer à des projets concrets tout en renforçant mes compétences techniques aux côtés de professionnels expérimentés.
+
+---
+
 ## 🛠 Compétences techniques
 
 ### Langages
@@ -62,7 +67,7 @@
 
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
-| ![Gestion Bibliothèque](https://img.shields.io/badge/Gestion_Bibliothèque-blue?style=for-the-badge) | API REST pour gestion livres, emprunts et utilisateurs | Java/Spring Boot, MySQL, Postman | [GitHub](https://github.com/Rachad-ac/gestionbibliotheque) |
+| ![Gestion Bibliothèque](https://img.shields.io/badge/Gestion_Bibliothèque-blue?style=for-the-badge) | API REST pour gestion livres, emprunts et utilisateurs | Java/Spring Boot, MySQL, Postman | [GitHub](https://github.com/Rachad-ac/Gestion-bibliotheque) |
 | ![Gestion Comptes Bancaires](https://img.shields.io/badge/Gestion_Comptes_Bancaires-green?style=for-the-badge) | Application Java Swing + JDBC pour gestion des comptes et transactions | Java, JDBC, MySQL, Swing | [GitHub](https://github.com/Rachad-ac/Gestion-comptes-bancaires) |
 
 ---
