@@ -50,7 +50,7 @@
 ## 💼 Expérience professionnelle
 
 ### AGENCE WEBGRAM – Développeur Full Stack (Stage)
-**Dakar, Sénégal | Mars – Août 2025**  
+**Dakar, Sénégal | Mars – Août 2025 (6 mois)**  
 - Développement d’applications web avec **Angular** et **Spring Boot**  
 - Collaboration avec équipes design et intégration UI/UX  
 - Gestion base de données **MySQL** et versioning **Git / GitLab**  
