@@ -69,9 +69,8 @@
 |--------|-------------|-------|------|
 | ![Gestion Bibliothèque](https://img.shields.io/badge/Gestion_Bibliothèque-blue?style=for-the-badge) | API REST pour gestion livres, emprunts et utilisateurs | Java/Spring Boot, MySQL, Postman | [GitHub](https://github.com/Rachad-ac/Gestion-bibliotheque) |
 | ![Gestion Comptes Bancaires](https://img.shields.io/badge/Gestion_Comptes_Bancaires-green?style=for-the-badge) | Application Java Swing + JDBC pour gestion des comptes et transactions | Java, JDBC, MySQL, Swing | [GitHub](https://github.com/Rachad-ac/Gestion-comptes-bancaires) |
-| ![Gestion Projets Collaboratifs](https://img.shields.io/badge/Gestion_Projets_Collaboratifs-orange?style=for-the-badge) | Application de gestion de projets, tâches et commentaires pour équipes de dev et chefs de projet | Node.js, Express, EJS, MySQL | [GitHub](lien_vers_repo) |
+| ![Gestion Projets Collaboratifs](https://img.shields.io/badge/Gestion_Projets_Collaboratifs-orange?style=for-the-badge) | Application de gestion de projets, tâches et commentaires pour équipes de dev et chefs de projet | Node.js, Express, EJS, MySQL | [GitHub](https://github.com/Rachad-ac/Examen-laravel) |
 | ![Gestion Étudiants & Utilisateurs](https://img.shields.io/badge/Gestion_Étudiants_&_Utilisateurs-red?style=for-the-badge) | Application web avec rôles différenciés (admin/user), interface en EJS et MySQL | Node.js, Express, EJS, MySQL | [GitHub](lien_vers_repo) |
-| ![Talent Management](https://img.shields.io/badge/Talent_Management-purple?style=for-the-badge) | Application de gestion de recrutements et formations | Angular, Spring Boot, MySQL | [GitHub](lien_vers_repo) |
 
 ---
 
