@@ -2,7 +2,7 @@
 
 **Développeur Full Stack Junior** | Passionné par le développement web et les solutions logicielles  
 
-📍 Dakar, Grand Yoff | 🌐 Comorienne | 🗣 Français  
+📍 Dakar, Grand Yoff | 🇰🇲 Comorienne | 🗣 Français  
 ✉ ahmedcomborachad@gmail.com | 📞 +221 78 448 67 09 | [GitHub](https://github.com/Rachad-ac)
 
 ---
