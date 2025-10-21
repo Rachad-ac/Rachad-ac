@@ -8,7 +8,7 @@
 ---
 
 ## 📝 À propos
-Étudiant en fin de licence en Génie Logiciel, passionné par le développement web et la création de solutions logicielles. Rigoureux et motivé, je cherche à intégrer une équipe dynamique pour contribuer à des projets concrets tout en renforçant mes compétences techniques aux côtés de professionnels expérimentés.
+Étudiant en fin de licence en Génie Logiciel et Développeur Full Stack Junior avec 6 mois d'expérience en développement web full stack (Angular & Spring Boot), passionné par le développement web et la création de solutions logicielles. Rigoureux et motivé, je cherche à intégrer une équipe dynamique pour contribuer à des projets concrets tout en renforçant mes compétences techniques aux côtés de professionnels.
 
 ---
 
