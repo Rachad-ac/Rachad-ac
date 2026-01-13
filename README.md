@@ -75,8 +75,9 @@ Passionné par la conception d’applications web modernes, performantes et bien
 ---
 
 ## 📊 GitHub Statistiques
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachad-ac&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachad-ac&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachad-ac&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachad-ac&layout=compact)
+
 
 ---
 
