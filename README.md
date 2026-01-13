@@ -1,87 +1,130 @@
-# 👋 Salut, moi c'est Ahmed Combo RACHAD
+# 👋 Salut, moi c’est Ahmed Combo RACHAD
 
-**Développeur Full Stack Junior** | Passionné par le développement web et les solutions logicielles  
+**Développeur Full Stack Junior (Angular / Spring Boot)**  
+Passionné par le développement web et la conception de solutions logicielles robustes.
 
-📍 Dakar, Grand Yoff | 🇰🇲 Comorienne | 🗣 Français  
-✉ ahmedcomborachad@gmail.com | 📞 +221 78 448 67 09 | [GitHub](https://github.com/Rachad-ac)
+📍 Dakar, Sénégal  
+✉️ ahmedcomborachad@gmail.com  
+📞 +221 78 448 67 09  
+🌍 Nationalité : Comorienne  
+🗣️ Langue : Français  
+🔗 GitHub : https://github.com/Rachad-ac
 
 ---
 
-## 📝 À propos
-Développeur Full Stack Junior avec 6 mois d'expérience en développement web full stack (Angular & Spring Boot), passionné par le développement web et la création de solutions logicielles. Rigoureux et motivé, je cherche à intégrer une équipe dynamique pour contribuer à des projets concrets tout en renforçant mes compétences techniques aux côtés de professionnels.
+## 🧑‍💻 À propos
+
+Titulaire d’une **Licence en Génie Logiciel** à l’Institut Polytechnique de Dakar (IPD Thomas Sankara), je suis **développeur Full Stack Junior** avec **6 mois d’expérience** en développement web avec **Angular et Spring Boot**.
+
+Passionné par la conception d’applications web modernes, performantes et bien structurées, je souhaite évoluer dans un environnement technique stimulant afin de **consolider mes compétences**, approfondir mes connaissances et **contribuer activement à des projets numériques concrets**.
 
 ---
 
-## 🛠 Compétences techniques
+## 🛠️ Compétences techniques
 
-### Langages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-000000?style=for-the-badge&logo=oracle&logoColor=white)
+### 💻 Langages
+- Java  
+- JavaScript  
+- HTML5 / CSS3  
+- PHP  
+- SQL / PL-SQL  
 
-### Développement Web
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚙️ Frameworks & Technologies
+- Spring Boot (Spring Data JPA, Hibernate)  
+- Angular  
+- Laravel  
+- Bootstrap  
 
-### Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🗄️ Bases de données
+- MySQL  
+- PostgreSQL  
+- Oracle  
 
-### Bases de données
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Outils
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Form Builder](https://img.shields.io/badge/Form_Builder-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
-
+### 🧰 Outils & Méthodologies
+- Git, GitHub, GitLab  
+- Postman  
+- UML (StarUML)  
+- WordPress  
+- Méthodologies Agile (Scrum)  
 
 ---
 
 ## 💼 Expérience professionnelle
 
-### AGENCE WEBGRAM – Développeur Full Stack (Stage)
-**Dakar, Sénégal | Mars – Août 2025 (6 mois)**  
-- Développement d’applications web avec **Angular** et **Spring Boot**  
-- Collaboration avec équipes design et intégration UI/UX  
-- Gestion base de données **MySQL** et versioning **Git / GitLab**  
+### 🏢 AGENCE WEBGRAM — Développeur Full Stack (Stage)
+**Dakar, Sénégal | Mars – Août 2025 (6 mois)**
 
-**Projet Talent Management**  
-- Modules Recrutement et Formations  
-- Front-end responsive + intégration API REST  
-- Backend Spring Data JPA, Hibernate  
-- [Frontend GitLab](https://gitlab.com/babacardiop1998/frontend-talent-management) | [Backend GitLab](https://gitlab.com/babacardiop1998/backend-talent-managemeent)  
+- Développement d’applications web dynamiques avec **Angular (Front-end)** et **Spring Boot (Back-end)**  
+- Conception d’API REST robustes et sécurisées  
+- Intégration de bases de données relationnelles (**MySQL**)  
+- Collaboration avec les équipes design pour l’amélioration de l’expérience utilisateur  
+- Utilisation de **Git & GitLab** pour le versioning et le travail collaboratif  
+- Documentation technique et application des pratiques **Agile / Scrum**
+
+#### 🔹 Projet : Talent Management
+Application de gestion des **recrutements et formations**.
+
+- Module **Recrutements** : postes à pourvoir, candidatures, entretiens, tests, évaluations  
+- Module **Formations** : planification, suivi des participants et compétences acquises  
+- Interface responsive avec Angular et intégration API REST  
+- Backend Spring Boot (JPA, Hibernate, services, entités)  
+- Participation aux phases de tests et validation fonctionnelle  
+
+**Stack :** Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, GitLab, UML  
+
+🔗 Frontend : https://gitlab.com/babacardiop1998/frontend-talent-management  
+🔗 Backend : https://gitlab.com/babacardiop1998/backend-talent-managemeent  
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets personnels
 
-| Projet | Description | Stack | Lien |
-|--------|-------------|-------|------|
-| ![Gestion Bibliothèque](https://img.shields.io/badge/Gestion_Bibliothèque-blue?style=for-the-badge) | API REST pour gestion livres, emprunts et utilisateurs | Java/Spring Boot, MySQL, Postman | [GitHub](https://github.com/Rachad-ac/Gestion-bibliotheque) |
-| ![Gestion Comptes Bancaires](https://img.shields.io/badge/Gestion_Comptes_Bancaires-green?style=for-the-badge) | Application Java Swing + JDBC pour gestion des comptes et transactions | Java, JDBC, MySQL, Swing | [GitHub](https://github.com/Rachad-ac/Gestion-comptes-bancaires) |
-| ![Gestion Projets Collaboratifs](https://img.shields.io/badge/Gestion_Projets_Collaboratifs-orange?style=for-the-badge) | Application de gestion de projets, tâches et commentaires pour équipes de dev et chefs de projet | React, Bootstrap, Axios, Laravel REST API, Sanctum, MySQL | [GitHub](https://github.com/Rachad-ac/Examen-laravel) |
-| ![Gestion Étudiants & Utilisateurs](https://img.shields.io/badge/Gestion_Étudiants_&_Utilisateurs-red?style=for-the-badge) | Application web avec rôles différenciés (admin/user), interface en EJS et MySQL | Node.js, Express, EJS, MySQL | [GitHub](https://github.com/Rachad-ac/gestion-etudiants) |
+### 📚 Gestion Bibliothèque — API REST
+🔗 https://github.com/Rachad-ac/Gestion-bibliotheque  
+
+- API REST pour la gestion des livres, emprunts et utilisateurs  
+- Opérations CRUD, relations entre entités, recherche avancée  
+- Architecture claire et documentée  
+
+**Stack :** Java, Spring Boot, MySQL, Postman, Git, GitHub, UML  
 
 ---
 
-## 📊 GitHub Statistiques
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachad-ac&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachad-ac&layout=compact&theme=radical)
+### 🏫 SmartUniv — Gestion des réservations universitaires
+🔗 https://github.com/Rachad-ac/SmartUniv  
+
+- Plateforme complète de gestion des réservations et plannings de salles  
+- Détection automatique des conflits de réservation  
+- Gestion des utilisateurs avec rôles (Admin, Enseignant, Étudiant)  
+- Authentification JWT et permissions  
+- Notifications (email + in-app) et annulation automatique via tâches planifiées  
+- Tableau de bord administratif avec statistiques  
+
+**Stack :** Laravel, Angular, JWT, MySQL, Bootstrap, Git, GitHub, Postman, UML  
 
 ---
 
 ## 🎓 Formation
-**Institut Polytechnique de Dakar (IPD Thomas Sankara)**  
-Licence Génie Logiciel – 3ᵉ année | Dakar, Sénégal | Fin Octobre 2025  
 
-**AGENCE WEBGRAM – Formation Développement Web (Angular & Spring Boot)**  
+### 🎓 Institut Polytechnique de Dakar (IPD Thomas Sankara)
+**Licence Génie Logiciel**  
+Dakar, Sénégal | 2024 – 2025  
+
+### 🏢 AGENCE WEBGRAM
+**Formation Développement Web (Angular & Spring Boot)**  
 Dakar, Sénégal | Mars – Août 2025  
 
-**École Privée Maleze**  
-Baccalauréat Scientifique – Série D, Mention Assez Bien | Fomboni, Moheli, Comores | 2021 – 2022
+### 🏫 École Privée Maleze
+**Baccalauréat Scientifique – Série D (Mention Assez Bien)**  
+Fomboni, Moheli, Comores | 2021 – 2022  
+
+---
+
+## 📊 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachad-ac&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachad-ac&layout=compact&theme=radical)
+
+---
+
+⭐ *Toujours motivé à apprendre, progresser et relever de nouveaux défis techniques.*
