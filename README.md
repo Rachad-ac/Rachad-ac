@@ -88,4 +88,4 @@ Licence Génie Logiciel – 3ᵉ année | Dakar, Sénégal | 2024 – 2025
 Dakar, Sénégal | Mars – Août 2025  
 
 **École Privée Maleze**  
-Baccalauréat Scientifique – Série D, Mention Assez Bien | Fomboni, Moheli, Comores | 2021 – 2022
+Baccalauréat Scientifique – Série D, Mention Assez Bien | Fomboni, Moheli, Comores | 2021 – 2022 
