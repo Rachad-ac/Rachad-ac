@@ -82,7 +82,7 @@ Passionné par la conception d’applications web modernes, performantes et bien
 
 ## 🎓 Formation
 **Institut Polytechnique de Dakar (IPD Thomas Sankara)**  
-Licence Génie Logiciel – 3ᵉ année | Dakar, Sénégal | 2024 – 2025  
+Licence Génie Logiciel | Dakar, Sénégal | 2024 – 2025  
 
 **AGENCE WEBGRAM – Formation Développement Web (Angular & Spring Boot)**  
 Dakar, Sénégal | Mars – Août 2025  
