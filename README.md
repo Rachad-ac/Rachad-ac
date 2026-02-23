@@ -1,16 +1,14 @@
 # 👋 Salut, moi c'est Ahmed Combo RACHAD
 
-**Développeur Full Stack Junior (Angular / Spring Boot)** | Passionné par le développement web et les solutions logicielles  
+**Développeur web Full Stack Junior (Angular / Spring Boot)** | Passionné par le développement web et les solutions logicielles  
 
-📍 Dakar, Sénégal | 🇰🇲 Comorienne | 🗣 Français  
-✉ ahmedcomborachad@gmail.com | 📞 +221 78 448 67 09 | [GitHub](https://github.com/Rachad-ac)
+📍 Dakar, Sénégal | 🇰🇲 Comores | 🗣 Français - courant , Anglais - technique 
+✉ ahmedcomborachad@gmail.com | 📞 +221 71 152 65 28 
 
 ---
 
 ## 📝 À propos
-Titulaire d’une **Licence en Génie Logiciel** à l’Institut Polytechnique de Dakar (IPD Thomas Sankara), je suis **Développeur Full Stack Junior** avec **6 mois d’expérience** en développement web **Angular & Spring Boot**.
-
-Passionné par la conception d’applications web modernes, performantes et bien structurées, je souhaite intégrer un environnement technique stimulant afin de **consolider mes compétences**, approfondir mes connaissances et **contribuer activement à des projets numériques concrets**.
+**Développeur Web Full Stack** passionné, titulaire d’une **Licence en Génie Logiciel**. Fort d’une **expérience de 6 mois** dans la création d’applications web dynamiques et performantes avec **Angular et Spring Boot**. Engagé à produire un code propre et des architectures maintenables, je maîtrise également **Laravel** et la gestion de bases de données relationnelles(**MySQL**). Au-delà du développement, je possède une forte sensibilité pour le **Web Design** et l'optimisation de l'expérience utilisateur (**UI/UX**), me permettant de concevoir des interfaces intuitives et attractives. 
 
 ---
 
@@ -21,7 +19,6 @@ Passionné par la conception d’applications web modernes, performantes et bien
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ### Frameworks
@@ -40,7 +37,8 @@ Passionné par la conception d’applications web modernes, performantes et bien
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=UML&logoColor=white)
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
