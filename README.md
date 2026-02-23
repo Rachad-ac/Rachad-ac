@@ -37,7 +37,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=UML&logoColor=white)
-![FIGMA](https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=white)
+![FIGMA](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
