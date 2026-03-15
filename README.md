@@ -7,7 +7,11 @@
 ---
 
 ## 📝 À propos
-**Développeur Web Full Stack** passionné, titulaire d’une **Licence en Génie Logiciel**. Fort d’une **expérience de 6 mois** dans la création d’applications web dynamiques et performantes avec **Angular et Spring Boot**. Engagé à produire un code propre et des architectures maintenables, je maîtrise également **Laravel** et la gestion de bases de données relationnelles(**MySQL**). Au-delà du développement, je possède une forte sensibilité pour le **Web Design** et l'optimisation de l'expérience utilisateur (**UI/UX**), me permettant de concevoir des interfaces intuitives et attractives. 
+**Développeur Web Full Stack** passionné, titulaire d’une **Licence en Génie Logiciel**. Fort d’une **expérience de 6 mois** dans la création d’applications web dynamiques et performantes avec **Angular et Spring Boot**. 
+
+Engagé à produire un code propre et des architectures maintenables, je maîtrise également **Laravel** et la gestion de bases de données relationnelles(**MySQL**). 
+
+Au-delà du développement, je possède une forte sensibilité pour le **Web Design** et l'optimisation de l'expérience utilisateur (**UI/UX**), me permettant de concevoir des interfaces intuitives et attractives. 
 
 ---
 
@@ -56,9 +60,6 @@
 - Modules : postes à pourvoir, candidatures, entretiens, tests, évaluations  
 - Interface Angular responsive et intégration API REST  
 - Backend Spring Data JPA, Hibernate  
-
-🔗 [Frontend GitLab](https://gitlab.com/babacardiop1998/frontend-talent-management)  
-🔗 [Backend GitLab](https://gitlab.com/babacardiop1998/backend-talent-managemeent)
 
 ---
 
