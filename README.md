@@ -67,7 +67,7 @@ Au-delà du développement, je possède une forte sensibilité pour le **Web Des
 - Interface Angular responsive et intégration API REST  
 - Backend Spring Data JPA, Hibernate 
 
- **Stacks** : Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, Gitlab, UML, Agile(Scrum)
+**Stacks** : Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, Gitlab, UML, Agile(Scrum)
 
 ---
 
