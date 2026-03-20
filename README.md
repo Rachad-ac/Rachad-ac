@@ -88,10 +88,7 @@ Au-delà du développement, je possède une forte sensibilité pour le **Web Des
 
 ## 🎓 Formation
 **Institut Polytechnique de Dakar (IPD Thomas Sankara)**  
-Licence Génie Logiciel | Dakar, Sénégal | 2024 – 2025  
-
-**AGENCE WEBGRAM – Formation Développement Web (Angular & Spring Boot)**  
-Dakar, Sénégal | Mars – Août 2025  
+Licence Génie Logiciel | Dakar, Sénégal | 2024 – 2025    
 
 **École Privée Maleze**  
 Baccalauréat Scientifique – Série D, Mention Assez Bien | Fomboni, Moheli, Comores | 2021 – 2022 
