@@ -86,7 +86,7 @@ Au-delà du développement, je possède une forte sensibilité pour le **Web Des
 
 ---
 
-## 🎓 Formation
+## 🎓 Etudes et Formation
 **Institut Polytechnique de Dakar (IPD Thomas Sankara)**  
 Licence Génie Logiciel | Dakar, Sénégal | 2024 – 2025    
 
