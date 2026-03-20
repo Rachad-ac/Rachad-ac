@@ -45,6 +45,12 @@ Au-delà du développement, je possède une forte sensibilité pour le **Web Des
 
 ---
 
+## Comptences transversales 
+
+** Communication - travail en équipe - résolution de problèmes - rigueur et créativité ***
+
+---
+
 ## 💼 Expérience professionnelle
 
 ### AGENCE WEBGRAM – Développeur Full Stack (Stage)
