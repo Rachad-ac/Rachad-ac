@@ -45,7 +45,7 @@ Au-delà du développement, je possède une forte sensibilité pour le **Web Des
 
 ---
 
-## Comptences transversales 
+## 🧩 Comptences transversales 
 
 **Communication - travail en équipe - résolution de problèmes - rigueur et créativité**
 
