@@ -61,12 +61,6 @@ Au-delà du développement, je possède une forte sensibilité pour le **Web Des
 - Travail collaboratif avec **Git / GitLab**  
 - Application des méthodologies **Agile (Scrum)**  
 
-**Projet Talent Management**  
-- Application de gestion des **recrutements et formations**  
-- Modules : postes à pourvoir, candidatures, entretiens, tests, évaluations  
-- Interface Angular responsive et intégration API REST  
-- Backend Spring Data JPA, Hibernate 
-
 **Stacks** : Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, Gitlab, UML, Agile(Scrum)
 
 ---
