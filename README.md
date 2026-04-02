@@ -2,7 +2,7 @@
 
 **Développeur web Full Stack Junior (Angular / Spring Boot / Laravel)** | Passionné par le développement web et les solutions logicielles  
 
-📍 Dakar, Sénégal | 	🇰🇲 Comores | 🗣 Français - courant, Anglais - technique | ✉ [ahmedcomborachad@gmail.com](mailto:ahmedcomborachad@gmail.com) | 📞 +221 71 152 65 28
+📍 Dakar | 	🇰🇲 Comores | 🗣 Français - courant, Anglais - technique | ✉ [ahmedcomborachad@gmail.com](mailto:ahmedcomborachad@gmail.com) | 📞 +221 71 152 65 28
 
 ---
 
