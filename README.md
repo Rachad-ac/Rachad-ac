@@ -1,13 +1,13 @@
 # 👋 Salut, moi c'est Ahmed Combo RACHAD
 
-**Développeur web Full Stack Junior (Angular / Spring Boot / Laravel)** | Passionné par le développement web et les solutions logicielles  
+**Développeur Full Stack  (Angular / Spring Boot / Laravel)** | Passionné par le développement web et les solutions logicielles  
 
-📍 Dakar | 	🇰🇲 Comores | 🗣 Français - courant, Anglais - technique | ✉ [ahmedcomborachad@gmail.com](mailto:ahmedcomborachad@gmail.com) | 📞 +221 71 152 65 28
+📍 Dakar | 	🇰🇲 Comores | 🗣 Français - courant, Anglais - technique | ✉ [ahmedcomborachad@gmail.com](mailto:ahmedcomborachad@gmail.com) | 📞 +221 71 152 65 28 | [LinkedIn](www.linkedin.com/in/ahmed-combo-rachad-385b5b302) 
 
 ---
 
 ## 📝 À propos
-**Développeur Web Full Stack** passionné, titulaire d’une **Licence en Génie Logiciel**. Fort d’une **expérience de 6 mois** dans la création d’applications web dynamiques et performantes avec **Angular et Spring Boot**. 
+**Développeur Full Stack**, titulaire d’une **Licence en Génie Logiciel**. Fort d’une **expérience de 6 mois** dans la création d’applications web dynamiques et performantes avec **Angular et Spring Boot**. 
 
 Engagé à produire un code propre et des architectures maintenables, je maîtrise également **Laravel** et la gestion de bases de données relationnelles(**MySQL**). 
 
