@@ -55,11 +55,14 @@ Au-delà du développement, je possède une forte sensibilité pour le **Web Des
 
 ### AGENCE WEBGRAM – Développeur Full Stack (Stage)
 **Dakar, Sénégal | Mars – Août 2025 (6 mois)**  
-- Développement d’applications web avec **Angular** et **Spring Boot**  
-- Conception d’API REST performantes et sécurisées  
-- Intégration de bases de données **MySQL**  
-- Travail collaboratif avec **Git / GitLab**  
-- Application des méthodologies **Agile (Scrum)**  
+- Conception et développement de plus de 8 interfaces modernes, intuitives et 100% responsives avec Angular.
+- Développement de plus de 15 endpoints d'API REST robustes, performantes et sécurisées avec Spring Boot.
+- Collaboration avec les équipes de design et d’intégration pour optimiser l’interface et l’expérience utilisateur.
+- Intégration d’une base de données relationnelle (MySQL) impliquant la modélisation de plus de 10 tables pour
+garantir la persistance et l'intégrité des données.
+- Utilisation quotidienne de Git et GitLab pour la gestion de version, incluant la participation à plus de 30 revues de
+code en équipe.
+- Documentation technique en suivant les méthodologies Agile (Scrum).
 
 **Stacks** : Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, Gitlab, UML, Agile(Scrum)
 
