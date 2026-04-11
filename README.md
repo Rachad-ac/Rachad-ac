@@ -72,8 +72,8 @@ code en équipe.
 
 | Projet | Description | Stack | Lien |
 |------|------------|------|------|
-| ![Gestion Bibliothèque](https://img.shields.io/badge/Gestion_Bibliothèque-blue?style=for-the-badge) | API REST pour gestion livres, emprunts et utilisateurs | Java, Spring Boot, MySQL | [GitHub](https://github.com/Rachad-ac/Gestion-bibliotheque) |
 | ![SmartUniv](https://img.shields.io/badge/SmartUniv-orange?style=for-the-badge) | Gestion des réservations et plannings universitaires avec détection de conflits | Angular, Laravel, JWT, MySQL | [GitHub](https://github.com/Rachad-ac/SmartUniv) |
+| ![Gestion Bibliothèque](https://img.shields.io/badge/Gestion_Bibliothèque-blue?style=for-the-badge) | API REST pour gestion livres, emprunts et utilisateurs | Java, Spring Boot, MySQL | [GitHub](https://github.com/Rachad-ac/Gestion-bibliotheque) |
 
 ---
 
