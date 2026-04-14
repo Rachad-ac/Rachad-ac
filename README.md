@@ -70,10 +70,10 @@ code en équipe.
 
 ## 🚀 Projets
 
-| Projet | Description | Stack | Lien | SmartTalent est une application web dédiée à la Gestion des Talents et des Processus RH
+| Projet | Description | Stack | Lien |
 |------|------------|------|------|
 | ![SmartUniv](https://img.shields.io/badge/SmartUniv-orange?style=for-the-badge) | Gestion des réservations et plannings universitaires avec détection de conflits | Angular, Laravel, JWT, MySQL | [GitHub](https://github.com/Rachad-ac/SmartUniv) |
-| ![SmartTalent](https://img.shields.io/badge/SamartTalent-purple?style=for-the-badge) | API REST pour gestion livres, emprunts et utilisateurs | Java, Spring Boot, MySQL | [GitHub](https://github.com/Rachad-ac/SmartTalent) |
+| ![SmartTalent](https://img.shields.io/badge/SamartTalent-purple?style=for-the-badge) | SmartTalent est une application web dédiée à la Gestion des Talents et des Processus RH | Java, Spring Boot, MySQL | [GitHub](https://github.com/Rachad-ac/SmartTalent) |
 | ![GES-BIBLIO](https://img.shields.io/badge/GES-BIBLIO-blue?style=for-the-badge) | API REST pour gestion livres, emprunts et utilisateurs | Java, Spring Boot, MySQL | [GitHub](https://github.com/Rachad-ac/GES-BIBLIO) |
 
 ---
