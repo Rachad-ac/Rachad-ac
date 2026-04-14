@@ -7,11 +7,14 @@
 ---
 
 ## 📝 À propos
-**Développeur Full Stack**, titulaire d’une **Licence en Génie Logiciel**. Fort d’une **expérience de 6 mois** dans la création d’applications web dynamiques et performantes avec **Angular et Spring Boot**. 
+^**Développeur Full Stack** passionné par la création d'architectures robustes et d'interfaces intuitives. Mon approche repose sur une conviction simple : transformer des besoins métiers complexes en solutions logicielles fluides, sécurisées et opérationnelles.
 
-Engagé à produire un code propre et des architectures maintenables, je maîtrise également **Laravel** et la gestion de bases de données relationnelles(**MySQL**). 
+Fort d'une expérience concrète en développement full stack, j'ai développé une solide expertise dans la conception d'API REST et la gestion de flux de données (MySQL), tout en garantissant une intégration frontend soignée sous Angular.
 
-Au-delà du développement, je possède une forte sensibilité pour le **Web Design** et l'optimisation de l'expérience utilisateur (**UI/UX**), me permettant de concevoir des interfaces intuitives et attractives. 
+🤝 Ouvert aux opportunités et aux collaborations :
+Je suis actuellement à l'écoute de nouveaux défis en tant que Développeur Full Stack ou Backend. 
+
+Je suis également enthousiaste à l'idée de collaborer sur des projets Open Source ou d'échanger avec d'autres passionnés de tech. 
 
 ---
 
