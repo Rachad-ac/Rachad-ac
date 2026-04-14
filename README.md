@@ -7,7 +7,7 @@
 ---
 
 ## 📝 À propos
-^**Développeur Full Stack** passionné par la création d'architectures robustes et d'interfaces intuitives. Mon approche repose sur une conviction simple : transformer des besoins métiers complexes en solutions logicielles fluides, sécurisées et opérationnelles.
+**Développeur Full Stack** passionné par la création d'architectures robustes et d'interfaces intuitives. Mon approche repose sur une conviction simple : transformer des besoins métiers complexes en solutions logicielles fluides, sécurisées et opérationnelles.
 
 Fort d'une expérience concrète en développement full stack, j'ai développé une solide expertise dans la conception d'API REST et la gestion de flux de données (MySQL), tout en garantissant une intégration frontend soignée sous Angular.
 
