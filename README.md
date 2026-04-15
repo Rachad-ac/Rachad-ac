@@ -50,7 +50,10 @@ Je suis également enthousiaste à l'idée de collaborer sur des projets Open So
 
 ## 🧩 Comptences transversales 
 
-**Communication - travail en équipe - résolution de problèmes - rigueur et créativité**
+- **Communication et travail en équipe**
+- **Rigueur et sens du détail**
+- **Résolution de problèmes**
+- **Curiosité et apprentissage continu**
 
 ---
 
