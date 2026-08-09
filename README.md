@@ -21,29 +21,36 @@ Je suis également enthousiaste à l'idée de collaborer sur des projets Open So
 ## 🛠 Compétences techniques
 
 ### Langages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://shields.io)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://shields.io)
+![SQL](https://shields.io)
 
-### Frameworks
+### Frameworks & Librairies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://shields.io)
+![Bootstrap](https://shields.io)
+![Tailwind CSS](https://shields.io)
 
 ### Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://shields.io)
 
-### Outils
+### Outils & Méthodes
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Scrum](https://shields.io)
+![ClickUp](https://shields.io)
+![Trello](https://shields.io)
+![Figma](https://shields.io)
+![UML](https://shields.io)
+![WordPress](https://shields.io)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=UML&logoColor=white)
-![FIGMA](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Bruno](https://shields.io)
 
 ---
 
@@ -56,7 +63,29 @@ Je suis également enthousiaste à l'idée de collaborer sur des projets Open So
 
 ---
 
-## 💼 Expérience professionnelle
+## 💼 Expériences professionnelles
+
+### NIANE TECHNOLOGIES – Développeur Frontend Angular
+**Dakar, Sénégal | Juillet – Août 2026 (1 mois)**  
+- Développement et intégration de plus de 20 interfaces web modernes, intuitives et 100% responsives avec Angular pour 3 projets clients (MCRI, The Bookers, BATINOV).
+- Conception et gestion de formulaires complexes intégrant des validations dynamiques et la gestion avancée de la saisie utilisateur.
+- Collaboration directe avec le designer UI/UX et le développeur Full Stack pour la consommation d'API REST et le respect strict des maquettes graphiques.
+- Prise en charge en totale autonomie du pôle Front-End Angular et alimentation continue de l'environnement de préproduction.
+- Utilisation quotidienne de Git pour la gestion de version, incluant
+l'optimisation des performances, le débogage et la résolution de conflits de merge.
+- Livraison des projets en respectant les méthodologies Agile sous des cycles d'intégration très courts (4 à 5 jours par projet).
+
+**Stacks** : HTML5, CSS3, Angular, TypeScript, Tailwind CSS, Intégration UI/UX & API REST, Git, GitLab, Figma, Agile (Scrum), ClickUp
+
+### SOUM INFORMATIQUE - Développeur Web (Stage) 
+**Dakar, Sénégal | Mai – Juin 2026 (2 mois)** 
+- Développement de Site Web modernes et 100% responsive sous WordPress.
+- Conception d'interfaces UI/UX sous WordPress avec Elementor.
+- Optimisation du référencement naturel (SEO) pour les moteurs derecherche, Gestion et rédaction de blogs d'entreprise.
+- Développement et Intégration de fonctionnalité personnalisée.
+  
+**Stacks** : WordPress, Elementor, WooCommerce, HTML, CSS, JavaScript,
+Yoast SEO
 
 ### AGENCE WEBGRAM – Développeur Full Stack (Stage)
 **Dakar, Sénégal | Mars – Août 2025 (6 mois)**  
@@ -69,11 +98,11 @@ garantir la persistance et l'intégrité des données.
 code en équipe.
 - Documentation technique en suivant les méthodologies Agile (Scrum).
 
-**Stacks** : Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, Gitlab, UML, Agile(Scrum)
+**Stacks** : HTML5, CSS3, Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, Gitlab, UML, Agile(Scrum)
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets Personnels
 
 | Projet | Description | Stack | Lien |
 |------|------------|------|------|
