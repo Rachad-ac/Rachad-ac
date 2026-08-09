@@ -119,8 +119,11 @@ code en équipe.
 ---
 
 ## 🎓 Etudes et Formation
+**D-CLIC, formez-vous au numérique avec l’OIF**  
+Développement mobile (Flutter) - niveau intermédiaire | En Ligne | Mai - Juillet 2026 
+
 **Institut Polytechnique de Dakar (IPD Thomas Sankara)**  
-Licence Génie Logiciel | Dakar, Sénégal | 2024 – 2025    
+Licence Génie Logiciel | Dakar, Sénégal | 2024 - 2025   
 
 **École Privée Maleze**  
-Baccalauréat Scientifique – Série D, Mention Assez Bien | Fomboni, Moheli, Comores | 2021 – 2022 
+Baccalauréat Scientifique - Série D, Mention Assez Bien | Fomboni, Moheli, Comores | 2021 - 2022 
