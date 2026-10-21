@@ -31,13 +31,13 @@ Je suis également enthousiaste à l'idée de collaborer sur des projets Open So
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) -->
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 ### Outils & Méthodes
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,7 +48,7 @@ Je suis également enthousiaste à l'idée de collaborer sur des projets Open So
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-005571?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<!-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) -->
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F26B00?style=for-the-badge&logo=bruno&logoColor=white)
 
@@ -67,12 +67,12 @@ Je suis également enthousiaste à l'idée de collaborer sur des projets Open So
 
 ### NIANE TECHNOLOGIES – Développeur Frontend Angular
 **Dakar, Sénégal | Juillet – Août 2026 (1 mois)**  
-- Développement et intégration de plus de 20 interfaces web modernes, intuitives et 100% responsives avec Angular pour 3 projets clients (MCRI, The Bookers, BATINOV).
+- Développement et intégration de plus de 20 interfaces web modernes, intuitives et 100% responsives avec Angular pour 3 projets clients.
 - Conception et gestion de formulaires complexes intégrant des validations dynamiques et la gestion avancée de la saisie utilisateur.
 - Collaboration directe avec le designer UI/UX et le développeur Full Stack pour la consommation d'API REST et le respect strict des maquettes graphiques.
 - Prise en charge en totale autonomie du pôle Front-End Angular et alimentation continue de l'environnement de préproduction.
-- Utilisation quotidienne de Git pour la gestion de version, incluant
-l'optimisation des performances, le débogage et la résolution de conflits de merge.
+- Utilisation quotidienne de Git pour la gestion de version, incluant l'optimisation des performances, le débogage et la résolution de conflits de merge.
+- Validation des parcours utilisateurs via des tests fonctionnels sur plus de 20 interfaces.
 - Livraison des projets en respectant les méthodologies Agile sous des cycles d'intégration très courts (4 à 5 jours par projet).
 
 **Stacks** : HTML5, CSS3, Angular, TypeScript, Tailwind CSS, Intégration UI/UX & API REST, Git, GitLab, Figma, Agile (Scrum), ClickUp
@@ -84,8 +84,7 @@ l'optimisation des performances, le débogage et la résolution de conflits de m
 - Optimisation du référencement naturel (SEO) pour les moteurs derecherche, Gestion et rédaction de blogs d'entreprise.
 - Développement et Intégration de fonctionnalité personnalisée.
   
-**Stacks** : WordPress, Elementor, WooCommerce, HTML, CSS, JavaScript,
-Yoast SEO
+**Stacks** : WordPress, Elementor, WooCommerce, HTML, CSS, JavaScript, Yoast SEO, Figma
 
 ### AGENCE WEBGRAM – Développeur Full Stack (Stage)
 **Dakar, Sénégal | Mars – Août 2025 (6 mois)**  
@@ -97,6 +96,8 @@ garantir la persistance et l'intégrité des données.
 - Utilisation quotidienne de Git et GitLab pour la gestion de version, incluant la participation à plus de 30 revues de
 code en équipe.
 - Documentation technique en suivant les méthodologies Agile (Scrum).
+- Exécution de tests fonctionnels et d'intégration (Postman) pour valider les APIs REST et les parcours utilisateurs.
+
 
 **Stacks** : HTML5, CSS3, Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, Gitlab, UML, Agile(Scrum)
 
