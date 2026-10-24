@@ -77,15 +77,6 @@ Je suis également enthousiaste à l'idée de collaborer sur des projets Open So
 
 **Stacks** : HTML5, CSS3, Angular, TypeScript, Tailwind CSS, Intégration UI/UX & API REST, Git, GitLab, Figma, Agile (Scrum), ClickUp
 
-### SOUM INFORMATIQUE - Développeur Web (Stage) 
-**Dakar, Sénégal | Mai – Juin 2026 (2 mois)** 
-- Développement de Site Web modernes et 100% responsive sous WordPress.
-- Conception d'interfaces UI/UX sous WordPress avec Elementor.
-- Optimisation du référencement naturel (SEO) pour les moteurs derecherche, Gestion et rédaction de blogs d'entreprise.
-- Développement et Intégration de fonctionnalité personnalisée.
-  
-**Stacks** : WordPress, Elementor, WooCommerce, HTML, CSS, JavaScript, Yoast SEO, Figma
-
 ### AGENCE WEBGRAM – Développeur Full Stack (Stage)
 **Dakar, Sénégal | Mars – Août 2025 (6 mois)**  
 - Conception et développement de plus de 8 interfaces modernes, intuitives et 100% responsives avec Angular.
@@ -98,8 +89,16 @@ code en équipe.
 - Documentation technique en suivant les méthodologies Agile (Scrum).
 - Exécution de tests fonctionnels et d'intégration (Postman) pour valider les APIs REST et les parcours utilisateurs.
 
-
 **Stacks** : HTML5, CSS3, Angular, TypeScript, Java/Spring Boot, MySQL, Bootstrap, Postman, Git, Gitlab, UML, Agile(Scrum)
+
+### SOUM INFORMATIQUE - Développeur Web (Stage) 
+**Dakar, Sénégal | Mai – Juin 2026 (2 mois)** 
+- Développement de Site Web modernes et 100% responsive sous WordPress.
+- Conception d'interfaces UI/UX sous WordPress avec Elementor.
+- Optimisation du référencement naturel (SEO) pour les moteurs derecherche, Gestion et rédaction de blogs d'entreprise.
+- Développement et Intégration de fonctionnalité personnalisée.
+  
+**Stacks** : WordPress, Elementor, WooCommerce, HTML, CSS, JavaScript, Yoast SEO, Figma
 
 ---
 
