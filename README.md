@@ -121,6 +121,8 @@ code en équipe.
 ## 🎓 Etudes et Formation
 **D-CLIC, formez-vous au numérique avec l’OIF**  
 Développement mobile (Flutter) - niveau intermédiaire | En Ligne | Mai - Juillet 2026 
+- **Compétences** : Dart, Flutter, API REST, Gestion des états (Provider/Bloc), Git.
+- **Projet** : Développement d'une application mobile de prise de note personnel (Android/iOS).
 
 **Institut Polytechnique de Dakar (IPD Thomas Sankara)**  
 Licence Génie Logiciel | Dakar, Sénégal | 2024 - 2025   
