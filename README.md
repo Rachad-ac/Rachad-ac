@@ -122,7 +122,7 @@ code en équipe.
 **D-CLIC, formez-vous au numérique avec l’OIF**  
 Développement mobile (Flutter) - niveau intermédiaire | En Ligne | Mai - Juillet 2026 
 - **Compétences** : Dart, Flutter, API REST, Gestion des états (Provider/Bloc), Git.
-- **Projet** : Développement d'une application mobile de [prise de notes personnelles](https://github.com/Rachad-ac/SmartUniv) (Android/iOS).
+- **Projet** : Développement d'une application mobile de [prise de notes personnelles](https://github.com/Rachad-ac/projet_final_dclic) (Android/iOS).
 
 **Institut Polytechnique de Dakar (IPD Thomas Sankara)**  
 Licence Génie Logiciel | Dakar, Sénégal | 2024 - 2025   
